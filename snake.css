@@ -1,0 +1,52 @@
+<style>
+header{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-optical-sizing: auto
+}
+head{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: olivedrab;
+    font-optical-sizing: auto;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#78a95b
+    font-optical-sizing: auto;
+}
+canvas{
+    box-shadow: black 20px 10px 50px;
+}
+
+footer{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-optical-sizing: auto;
+}
+
+h1{
+    color:rgb(34,139,34);
+    padding: 3px;
+    font-family: fantasy;
+    font-size: 48px;
+    font-optical-sizing: auto;
+}
+</style>
