@@ -1,4 +1,2 @@
-# snakegame
-Snake Game built with JavaScript 
-
-[Play](https://sir0din.github.io/snakegame/)
+# [snakegame](https://sir0din.github.io/snakegame/)
+Snake Game built with JavaScript
